@@ -1,6 +1,7 @@
 # SwiftUI-Video-App
 App where we can see and watch Sean Allen's top 10 youtube videos.
 
-![SwiftUI-Video-App-VideoListView](https://user-images.githubusercontent.com/85165343/177568329-c4cf46bf-af0c-41f4-baef-4e0b38ba1232.png) ![SwiftUI-Video-App-VideoDetailView-1](https://user-images.githubusercontent.com/85165343/177568353-f1cc0a8a-6a7d-4b9e-8a39-c7b5a0e90a06.png)
+![SwiftUI-Video-App-VideoListView](https://user-images.githubusercontent.com/85165343/177574840-8c700d42-ce0b-49b3-931f-fb7d7b902750.png) ![SwiftUI-Video-App-VideoDetailView-1](https://user-images.githubusercontent.com/85165343/177574954-57adf937-8c49-4f77-a246-a98ea21ee5e0.png)
 
-![SwiftUI-Video-App-VideoDetailView-2 png](https://user-images.githubusercontent.com/85165343/177568367-b07a09b2-146f-478b-8f7b-9feb0c55a5d8.png) ![SwiftUI-Video-App-After-Clicking-Watch-Now](https://user-images.githubusercontent.com/85165343/177568376-9abc7def-8b99-4943-8579-315b60e60b60.png)
+![SwiftUI-Video-App-VideoDetailView-2](https://user-images.githubusercontent.com/85165343/177575015-bb03b9f7-5a34-43ec-b45b-9dcb1ed7fc86.png) ![SwiftUI-Video-App-After-Clicking-Watch-Now](https://user-images.githubusercontent.com/85165343/177575048-b65f03be-0642-43e6-a856-c2599609f05d.png)
+
